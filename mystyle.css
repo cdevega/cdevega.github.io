@@ -15,10 +15,8 @@ font-size:3em;
 }
 
 
-P.table{ <style>
-table, th, td {
+P.table{ 
   border: 1px solid black;
-  </style>
 }
 
 
