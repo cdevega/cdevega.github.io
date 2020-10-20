@@ -31,11 +31,10 @@ font-size:5em;
 }
   
   
-.parent {
-  text-align: center;
-}
-.parent > ul {
-  display: inline-block;
+.container{
+  margin:auto;
+  width:90px;
+  border:1px solid;
 }  
 
 
