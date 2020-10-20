@@ -2,7 +2,13 @@ h1{
 font-size: 6em;
 font-style: oblique;
 text-align: center;
-};
+}
+
+
+.p{
+font-size: 3em;
+font-style: Courier New;
+}  
 
 
 .center {
@@ -11,4 +17,5 @@ text-align: center;
   margin-right: auto;
   width: 50%;
 }
+
 
