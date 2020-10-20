@@ -29,6 +29,12 @@ h3{
 color:#000000; 
 font-size:5em;
 }
+  
+  
+ul{
+    text-align: center;
+    list-style-position: inside;
+}  
 
 
 .center {
