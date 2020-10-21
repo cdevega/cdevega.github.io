@@ -22,7 +22,7 @@ body.background{
   text-align:center
 }
 
-  
+<style>   
 .table{
   border-collapse: collapse;
 }
@@ -34,6 +34,7 @@ body.background{
 .table, th{
   border: 5px solid black;
 }
+</style>
 
 
 
