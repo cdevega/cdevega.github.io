@@ -23,21 +23,6 @@ body.background{
 }
 
 
-<style>
-table, th, td {
-  border: 8px solid black;
-  border-collapse: collapse;
-}
-table.center1 {
-  margin-left:auto; 
-  margin-right:auto;
-  font-size: 5em;
-}
-
-</style>
-
-
-
 ol.u {
   list-style-type: none; 
   font-family: "Lucida Console", Courier, monospace;
