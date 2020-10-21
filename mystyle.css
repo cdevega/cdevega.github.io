@@ -22,14 +22,19 @@ body.background{
   text-align:center
 }
 
-
-table,th.tablestyle{
-   border: 6px solid black;
-   border-collapse: collapse;
-   margin-left: auto;
-   margin-right: auto;
-   font-size: 2em
+<style>  
+table{
+  border-collapse: collapse;
 }
+table{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 3em
+}
+table, td, th{
+  border: 5px solid black;
+}
+</style>
 
 
 dl.style1{
