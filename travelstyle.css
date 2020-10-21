@@ -10,6 +10,12 @@ font-size: 1.5em;
 font-family: "Lucida Console", Courier, monospace;
 }  
 
+body.background{
+background-color: #AFEEEE;
+text-align:center
+}
+ 
+
 
 .center {
   display: block;
