@@ -24,12 +24,10 @@ body.background{
 
 <style>   
 .table{
-  border-collapse: collapse;
-}
-.table{
   margin-left: auto;
   margin-right: auto;
   font-size: 3em
+  border-collapse: collapse;
 }
 .table, th{
   border: 5px solid black;
