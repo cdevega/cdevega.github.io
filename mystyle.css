@@ -22,17 +22,18 @@ body.background{
   text-align:center
 }
 
-<style>   
-.table, th, td{
-  border: 7px solid black;
+
+<style>
+table, th, td {
+  border: 8px solid black;
   border-collapse: collapse;
 }
-
-.center1 {
-  margin-left: auto;
-  margin-right: auto;
-  font-size: 4em
+table.center1 {
+  margin-left:auto; 
+  margin-right:auto;
+  font-size: 5em;
 }
+
 </style>
 
 
