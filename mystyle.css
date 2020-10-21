@@ -42,6 +42,12 @@ body.background{
 font-size: 3em
 }
 
+ol.u{
+  list-style-type: none; 
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 3em
+}
+
 
 .center {
   display: block;
