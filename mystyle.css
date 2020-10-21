@@ -23,7 +23,7 @@ body.background{
 }
 
 
-table,td,th.tablestyle{
+table,tr,th.tablestyle{
    border: 6px solid black;
    border-collapse: collapse;
    margin-left: auto;
