@@ -4,7 +4,10 @@ font-style: oblique;
 text-align: center;
 }
 
-
+body.background{
+ background-color: #E6E6FA;
+ text-align:center
+}   
 
 .center {
   display: block;
