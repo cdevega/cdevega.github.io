@@ -31,7 +31,7 @@ table{
   margin-right: auto;
   font-size: 3em
 }
-table, td, th{
+table, th{
   border: 5px solid black;
 }
 </style>
